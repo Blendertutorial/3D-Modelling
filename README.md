@@ -3,3 +3,5 @@
 * Rendern von 3D-Szenen und Animationen
 * vielleicht auch Interaktionen und dynamische Visualisierungen
 * etc.
+
+![Blender in Aktion](Blender/Troete2.png)
